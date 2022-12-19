@@ -1,0 +1,28 @@
+﻿#foto {
+    width: 200px;
+    margin-left: 7rem;
+    border-radius: 50%;
+    box-shadow: 0 5px 5px 0 gray;
+   
+}
+
+.headerIndex {
+    font-weight:bold;
+
+}
+
+.habilities ul {
+    list-style:none;
+    padding-left:0;
+}
+
+
+.container1 {
+    width: 1200px;
+    margin-top: 15px;
+}
+
+.container1 h1{
+    font-size: 50px
+}
+

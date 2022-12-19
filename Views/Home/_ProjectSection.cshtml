@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Project>
+
+@if (Model is not null)
+
+{
+    <div class="container absolute">
+        <h1>My cutting-edje Projects</h1>
+        <p>Feel free to check out my latest Project</p>
+    </div>
+
+    <partial name="_ListOfProjects" model="Model"/>
+}
